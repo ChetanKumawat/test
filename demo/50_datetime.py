@@ -1,0 +1,35 @@
+import datetime
+
+x = datetime.datetime.now()
+print("Current DateTime : "+str(x))
+
+print("Year : "+str(x.year))
+print("Day : "+str(x.strftime("%A")))
+
+# create a date using datetime() class
+y = datetime.datetime(2025,11,29)
+
+print(y)
+print(x.strftime("Short name of weekdays : %a"))
+print(x.strftime("Full name of weekdays : %A"))
+print(x.strftime("Weekdays in numbers : %w"))
+print(x.strftime("Days in numbers : %d"))
+print(x.strftime("Short name of month : %b"))
+print(y.strftime("Full name of month : %B"))
+print(x.strftime("Short year in number without century : %y"))
+print(x.strftime("Full year in number : %Y"))
+print(x.strftime("Hour 0-23 : %H"))
+print(x.strftime("Hour 0-12 : %l"))
+print(x.strftime("For PM/AM : %p"))
+print(x.strftime("For minute : %M"))
+print(x.strftime("For seconds : %S"))
+print(x.strftime("For microseconds : %f"))
+print(x.strftime("UTC offset : %z"))
+print(x.strftime("For TimeZone : %Z"))
+print(x.strftime("Days number of years : %j"))
+print(x.strftime("Week number of the year,Sunday is the first week of the year,00-53 : %U"))
+print(x.strftime("Week number of the year, Monday is the first week of the year,00-53 : %W"))
+print(x.strftime("Local version of the Date & Time : %c"))
+print(x.strftime("Local version of the Date : %x"))
+print(x.strftime("Local version of the time : %X"))
+print(x.strftime("%%"))

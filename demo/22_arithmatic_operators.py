@@ -1,0 +1,9 @@
+x = 10 
+y = 3
+print("Addition	: "+str(x)+" + "+str(y)+"  = ", x + y)
+print("Subtraction 	: "+str(x)+" - "+str(y)+"  = ", x - y)
+print("Multiplication 	: "+str(x)+" * "+str(y)+"  = ", x * y)
+print("Division 	: "+str(x)+" / "+str(y)+"  = ", x / y)
+print("Modulus		: "+str(x)+" % "+str(y)+"  = ", x % y)
+print("Exponentiation 	: "+str(x)+" ** "+str(y)+" = ",x ** y)
+print("Floor Division 	: "+str(x)+" // "+str(y)+" = ",x // y)

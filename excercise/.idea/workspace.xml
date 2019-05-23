@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8538f9a5-2fb3-4194-90c3-b3c8aa6ae4c2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exc8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>read</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/current_dateTime3.py" />
+        <option value="$PROJECT_DIR$/print_string_in_specific_format1.py" />
+        <option value="$PROJECT_DIR$/exc2.py" />
+        <option value="$PROJECT_DIR$/exc3.py" />
+        <option value="$PROJECT_DIR$/../Demo/60_tryExcept.py" />
+        <option value="$PROJECT_DIR$/../Demo/61_tryExcept.py" />
+        <option value="$PROJECT_DIR$/../Demo/62_tryExcept.py" />
+        <option value="$PROJECT_DIR$/../Demo/63_tryExcept.py" />
+        <option value="$PROJECT_DIR$/../Demo/64_tryExcept.py" />
+        <option value="$PROJECT_DIR$/../Demo/65_tryExcept.py" />
+        <option value="$PROJECT_DIR$/../Demo/66_fileHandling.py" />
+        <option value="$PROJECT_DIR$/../Demo/39_inheritance.py" />
+        <option value="$PROJECT_DIR$/../Demo/demofile.txt" />
+        <option value="$PROJECT_DIR$/../Demo/67_readFiles.py" />
+        <option value="$PROJECT_DIR$/../Demo/68_readFiles.py" />
+        <option value="$PROJECT_DIR$/../Demo/70_writeCreate.py" />
+        <option value="$PROJECT_DIR$/../Demo/demofile1.txt" />
+        <option value="$PROJECT_DIR$/../Demo/69_readFiles.py" />
+        <option value="$PROJECT_DIR$/../Demo/71_writeCreate.py" />
+        <option value="$PROJECT_DIR$/../Demo/72_builtin.py" />
+        <option value="$PROJECT_DIR$/../Demo/73_builtin_function.py" />
+        <option value="$PROJECT_DIR$/../Demo/74_bulitin_function.py" />
+        <option value="$PROJECT_DIR$/exc4.py" />
+        <option value="$PROJECT_DIR$/exc5.py" />
+        <option value="$PROJECT_DIR$/exc6.py" />
+        <option value="$PROJECT_DIR$/exc7.py" />
+        <option value="$PROJECT_DIR$/exc8.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="122" />
+    <option name="y" value="257" />
+    <option name="width" value="1401" />
+    <option name="height" value="799" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="excercise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/PycharmProjects/excercise" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.exc7">
+    <configuration name="exc3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="excercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exc4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="excercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exc5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="excercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exc6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="excercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exc7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="excercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exc7" />
+        <item itemvalue="Python.exc6" />
+        <item itemvalue="Python.exc5" />
+        <item itemvalue="Python.exc4" />
+        <item itemvalue="Python.exc3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8538f9a5-2fb3-4194-90c3-b3c8aa6ae4c2" name="Default Changelist" comment="" />
+      <created>1555591383015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555591383015</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="122" y="257" width="1401" height="799" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963716" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25263157" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963716" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Demo/5_verify_number_type.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/6_int_type.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/7_float_type.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/12_string_variableType.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/13_string_literal.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/14_string_literals_with_position.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/15_string_literals_with_strip_method.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/16_string_literals_with_len_method.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/18_string_literals_with_upper_method.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/19_string_literals_with_replace_method.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/20_string_literlals_with_split_method.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/21_cmnd_line_input.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/22_arithmatic_operators.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/25_logical_operator.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/26_identity_operator.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/27_membership_operator.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/29_tuple.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/28_list.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/30_sets.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/31_dictionary.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/32_if_else.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/33_while_loop.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/35_functions.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/36_lembda.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/37_array.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/38_class.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/44.iterator.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/40_inheritance1.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/39_inheritance.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/70_write/create.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/68_readFiles.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/67_readFiles.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/66_fileHandling.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/demofile.txt" />
+    <entry file="file://$PROJECT_DIR$/../Demo/70_writeCreate.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/demofile1.txt" />
+    <entry file="file://$PROJECT_DIR$/../Demo/myfile.txt" />
+    <entry file="file://$PROJECT_DIR$/../Demo/71_writeCreate.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/72_deleteFile.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/34_for_loop.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/74_bulitin_function.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/69_readFiles.py" />
+    <entry file="file://$PROJECT_DIR$/../Demo/73_builtin_function.py" />
+    <entry file="file://$PROJECT_DIR$/exc1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="85" selection-start-line="1" selection-start-column="85" selection-end-line="1" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exc2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exc3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exc4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exc5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exc6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exc7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="92" selection-start-column="92" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exc8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
